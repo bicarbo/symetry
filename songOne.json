@@ -1,0 +1,402 @@
+{
+  "/note21Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 69
+  },
+  "/note3Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 32
+  },
+  "/note18Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/note31Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 89
+  },
+  "/repeatMel": {"value": 1},
+  "/note11Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 32
+  },
+  "/synth1Resonance": {"value": 0.5},
+  "/note58Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/note48Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 79
+  },
+  "/note38Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 72
+  },
+  "/note28Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 15
+  },
+  "/note25Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/note15Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 89
+  },
+  "/note35Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 32
+  },
+  "/setSynth1OSC": {"arrayValue": [
+    1,
+    0,
+    0,
+    0
+  ]},
+  "/note40Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 79
+  },
+  "/note50Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/note30Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 72
+  },
+  "/note6Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 72
+  },
+  "/note60Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 15
+  },
+  "/note2Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/note9Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/synthReverb": {"value": 0.5},
+  "/note55Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 89
+  },
+  "/label6": {
+    "stringValue": "OSC 2",
+    "value": 0
+  },
+  "/label5": {
+    "stringValue": "SYNTH FX",
+    "value": 0
+  },
+  "/note47Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 89
+  },
+  "/note12Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 15
+  },
+  "/note32Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 79
+  },
+  "/note27Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 32
+  },
+  "/note39Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 89
+  },
+  "/synth1Release": {"value": 0.25},
+  "/note5Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 69
+  },
+  "/note61Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 69
+  },
+  "/note41Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/note44Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 15
+  },
+  "/synth2Transpose": {"value": 0},
+  "/label4": {
+    "stringValue": "SYNTH STEP SEQUENCER",
+    "value": 0
+  },
+  "/setSynth2OSC": {"arrayValue": [
+    1,
+    0,
+    0
+  ]},
+  "/label3": {
+    "stringValue": "OSC 1",
+    "value": 0
+  },
+  "/note64Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 79
+  },
+  "/note59Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 32
+  },
+  "/note24Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 79
+  },
+  "/note19Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 32
+  },
+  "/synthDistortion": {"value": 0.20000000298023224},
+  "/note36Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 15
+  },
+  "/note26Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/note46Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 72
+  },
+  "/note56Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 79
+  },
+  "/note16Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 79
+  },
+  "/label2a": {
+    "stringValue": "SYNTH FILTER",
+    "value": 0
+  },
+  "/label2b": {
+    "stringValue": "AMP ENVELOPE",
+    "value": 0
+  },
+  "/note8Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 79
+  },
+  "/note62Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 72
+  },
+  "/note52Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 15
+  },
+  "/note33Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/note23Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 89
+  },
+  "/note13Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 69
+  },
+  "/note43Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 32
+  },
+  "/note53Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 69
+  },
+  "/note1Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/synth1Attack": {"value": 0},
+  "/synth2Volume": {"value": 0},
+  "/note10Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/note20Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 15
+  },
+  "/note17Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/note45Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 69
+  },
+  "/kickRate": {"value": 1},
+  "/note4Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 15
+  },
+  "/note22Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 72
+  },
+  "/note63Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 89
+  },
+  "/note57Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/note37Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 69
+  },
+  "/note42Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/note14Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 72
+  },
+  "/kickBox": {"arrayValue": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]},
+  "/note51Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 32
+  },
+  "/note7Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 89
+  },
+  "/note54Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 72
+  },
+  "/note34Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/kickVol": {"value": 1},
+  "/synth1Cutoff": {"value": 50},
+  "/note49Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 33
+  },
+  "/note29Slider": {
+    "min": 0,
+    "max": 90,
+    "value": 69
+  }
+}
